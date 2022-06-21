@@ -16,7 +16,7 @@
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
-		<mysql.version>8.0.13</mysql.version>
+		<mysql.version>8.0.28</mysql.version>
 		<java.version>1.8</java.version>
 		<CovertModel.version>2.3.2</CovertModel.version>
 		<jwt.version>0.9.1</jwt.version>
